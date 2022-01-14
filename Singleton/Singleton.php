@@ -6,6 +6,9 @@ class Singlton
 {
   private static $instance = null;
   
+  //Note that the contructor is private which means
+  //instantiation can only happen from within the class.
+  //in this case from by calling getInstance()
   private function __contruct()
   {
   
