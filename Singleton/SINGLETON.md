@@ -6,3 +6,10 @@ When to use:
   spooler, etc.
 - to centralize management of resources
 - to provide a global point of access to the object.
+- to ensure read/writes are synchronized in a multithreaded environment
+
+Examples:
+- Logger Classes
+- Database Connection Classes
+- Configuration Classes
+- Factories
