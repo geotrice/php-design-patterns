@@ -1,4 +1,5 @@
 The Signleton Pattern
+This is an example of a Creational Design Pattern.
 
 When to use:
 - it is important to only have one instance of a class 
