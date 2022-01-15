@@ -1,6 +1,6 @@
 The Prototype Design Pattern
 
-This is an example of a Creational Design Pattern.
+This is an example of a Creational Design Pattern with an Object scope.
 
 This design pattern specifies the kind of objects to create using a prototypical instance.
 
@@ -17,4 +17,3 @@ When to use:
 - When a system should be independent of how its products are created, composed, and represented
 - When classes to be instantiated are specified at run-time
 - When you need to avoid the creation of a factory hierarchy
-- 
