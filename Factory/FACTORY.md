@@ -1,5 +1,7 @@
 The Factory Design Pattern
 
+This is an example of a Creational Design Pattern.
+
 Use this pattern when:
 - to create objects without exposing the instantiation logic to
   the client (requesting) object.
