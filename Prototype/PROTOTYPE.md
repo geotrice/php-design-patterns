@@ -1,5 +1,9 @@
 The Prototype Design Pattern
+
+This is an example of a Creational Design Pattern.
+
 This design pattern specifies the kind of objects to create using a prototypical instance.
+
 It creates new objects by copying the prototype.
 
 There are three classes:
