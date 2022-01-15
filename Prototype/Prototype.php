@@ -4,9 +4,9 @@
 
 class Prototype
 {
-  public $primative;
-  public $component;
-  public $circularReference;
+  public $primative; //aka literal
+  public $component; //aka object
+  public $circularReference; //pointing back to "this" instance
   
   public function __clone()
   {
